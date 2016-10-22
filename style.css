@@ -1,7 +1,7 @@
 #ngnl_title{
 	font-family: Helvetica;
 	color: #C323D9;
-	margin-left:48%;
+	text-align: center;
 }
 
 a:visited{
@@ -12,6 +12,17 @@ a:link{
 	color:#00BFFF;
 }
 
-body{
-	background-image:url("chess piece.jpg");
+#footer_center{
+	text-align:center;
+	color: #C323D9;
+	
+}
+
+.border_ridge{
+	border-style: ridge;
+	border-color:pink;
+}
+
+.background{
+	background-image:url(http://pm1.narvii.com/5653/742603c9f6e489c8d6ad6859f6ec2af918417942_hq.jpg)
 }
