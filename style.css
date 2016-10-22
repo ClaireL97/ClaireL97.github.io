@@ -3,3 +3,15 @@
 	color: #C323D9;
 	margin-left:48%;
 }
+
+a:visited{
+	color:red;
+}
+
+a:link{
+	color:#00BFFF;
+}
+
+body{
+	background-image:url("chess piece.jpg");
+}
