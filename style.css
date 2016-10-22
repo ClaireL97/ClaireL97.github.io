@@ -21,6 +21,7 @@ a:link{
 .border_ridge{
 	border-style: ridge;
 	border-color:pink;
+	padding:.1em;
 }
 
 .background{
