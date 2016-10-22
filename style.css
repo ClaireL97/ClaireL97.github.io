@@ -27,3 +27,13 @@ a:link{
 .background{
 	background-image:url(http://pm1.narvii.com/5653/742603c9f6e489c8d6ad6859f6ec2af918417942_hq.jpg)
 }
+.center{
+	margin-left:40%;
+}
+
+@media(max-width: 500px){
+	.center{
+		margin:auto;
+	}
+
+}
